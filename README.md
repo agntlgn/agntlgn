@@ -6,7 +6,7 @@
 
 ---
 
-[![agntlgn's tryhackme stats](https://raw.githubusercontent.com/agntlgn/agntlgn/master/assets/thm_propic.png)][tryhackme]
+![agntlgn's tryhackme stats](https://raw.githubusercontent.com/agntlgn/agntlgn/master/assets/thm_propic.png)
 
 <!---
 agntlgn/agntlgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
