@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "agntlgn"
-          GITHUB_TOKEN: ${{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}}
+          GITHUB_TOKEN: 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
