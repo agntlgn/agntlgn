@@ -2,7 +2,7 @@
 - 👀 I’m interested in Red Team Operations & Penetration Testing
 - 🌱 I’m currently learning about AD Attacks
 - 💞️ I’m looking to collaborate on any projects that would make use of my Powershell, Bash and Python skills. Looking to work on any Open-Source projects.  
-- 📫 How to reach me Mastodon:@agntlgn@infosec.exchange Twitter: agntlgn TikTok: agntlgn
+- 📫 How to reach me Mastodon:@agntlgn@infosec.exchange [Twitter: Agntlgn](https://twitter.com/AgntLgn) TikTok: agntlgn
 
 ---
 
