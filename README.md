@@ -6,9 +6,10 @@
 
 ---
 
-![agntlgn's tryhackme stats](https://raw.githubusercontent.com/agntlgn/agntlgn/master/assets/thm_propic.png)
+[![agntlgn's tryhackme stats](https://raw.githubusercontent.com/agntlgn/agntlgn/master/assets/thm_propic.png)][tryhackme]
 
 <!---
 agntlgn/agntlgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[tryhackme]: https://tryhackme.com/p/Agntlgn
