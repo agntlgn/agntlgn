@@ -14,5 +14,5 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
-          username: "agntlgn"
+          username: "Agntlgn"
           GITHUB_TOKEN: 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
