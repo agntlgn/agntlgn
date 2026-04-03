@@ -7,8 +7,9 @@
 ---
 
 [![agntlgn's tryhackme stats](https://raw.githubusercontent.com/agntlgn/agntlgn/master/assets/thm_propic.png)][tryhackme]
-
+[![HackTheBox](upload://tdrn81x2t5rIC7vYU6EBi3IxDHJ.png)](https://app.hackthebox.com/users/1053345)
 <!---
 agntlgn/agntlgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 [tryhackme]: https://tryhackme.com/p/Agntlgn
+[hackthebox]: https://profile.hackthebox.com/profile/019d53a3-8721-728d-82d2-dd4dc9ad4bc5
